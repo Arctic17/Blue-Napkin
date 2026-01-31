@@ -458,7 +458,7 @@ if __name__ == "__main__":
 
     # --- EXEMPLE 6 : Régression Linéaire (Source [28]) ---
     # x = [0.5, 1.5, 2.5], y = [0.35, 0.67, 1.14]
-    # regression_lineaire_moindres_carres([0.5, 1.5, 2.5], [0.35, 0.67, 1.14])
+    regression_lineaire_moindres_carres([0.5, 1.5, 2.5], [0.35, 0.67, 1.14])
 
     # --- EXEMPLE 7 : Distance par écho (Source [7]) ---
     # Lag de 85 echantillons à 48kHz
